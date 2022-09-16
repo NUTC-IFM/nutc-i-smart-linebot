@@ -1,0 +1,158 @@
+[
+    {
+        "_id": {
+            "$oid": "61b3092116d756ce0b85cf32"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u7532\u5f0f\u8eca\u9ad4\u640d\u5931\u96aa",
+        "A_count": "11",
+        "B_count": "0",
+        "C_count": "0",
+        "D_count": "0",
+        "E_count": "0",
+        "priority": "12"
+    },
+    {
+        "_id": {
+            "$oid": "61b30de316d756ce0b85cf33"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u4e59\u5f0f\u8eca\u9ad4\u640d\u5931\u96aa",
+        "A_count": "0",
+        "B_count": "11",
+        "C_count": "0",
+        "D_count": "0",
+        "E_count": "0",
+        "priority": "11"
+    },
+    {
+        "_id": {
+            "$oid": "61b30e0b16d756ce0b85cf34"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u4e19\u5f0f\u8eca\u9ad4\u640d\u5931\u96aa",
+        "A_count": "7",
+        "B_count": "0",
+        "C_count": "2",
+        "D_count": "0",
+        "E_count": "0",
+        "priority": "10"
+    },
+    {
+        "_id": {
+            "$oid": "61b30e3216d756ce0b85cf35"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u7aca\u76dc\u96aa",
+        "A_count": "7",
+        "B_count": "0",
+        "C_count": "3",
+        "D_count": "0",
+        "E_count": "0",
+        "priority": "9"
+    },
+    {
+        "_id": {
+            "$oid": "61b30e8816d756ce0b85cf36"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u9644\u52a0\u689d\u6b3eA",
+        "A_count": "6",
+        "B_count": "0",
+        "C_count": "0",
+        "D_count": "4",
+        "E_count": "0",
+        "priority": "8"
+    },
+    {
+        "_id": {
+            "$oid": "61b30ebd16d756ce0b85cf37"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u9644\u52a0\u689d\u6b3eB",
+        "A_count": "6",
+        "B_count": "0",
+        "C_count": "0",
+        "D_count": "2",
+        "E_count": "1",
+        "priority": "7"
+    },
+    {
+        "_id": {
+            "$oid": "61b30efa16d756ce0b85cf38"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u9644\u52a0\u689d\u6b3eC",
+        "A_count": "0",
+        "B_count": "5",
+        "C_count": "0",
+        "D_count": "2",
+        "E_count": "2",
+        "priority": "6"
+    },
+    {
+        "_id": {
+            "$oid": "61b30f3816d756ce0b85cf39"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u9644\u52a0\u689d\u6b3eD",
+        "A_count": "0",
+        "B_count": "5",
+        "C_count": "0",
+        "D_count": "2",
+        "E_count": "1",
+        "priority": "5"
+    },
+    {
+        "_id": {
+            "$oid": "61b30f6e16d756ce0b85cf3a"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u7aca\u76dc\u96aa+\u9644\u52a0\u689d\u6b3eA",
+        "A_count": "4",
+        "B_count": "0",
+        "C_count": "2",
+        "D_count": "0",
+        "E_count": "2",
+        "priority": "4"
+    },
+    {
+        "_id": {
+            "$oid": "61b30fb316d756ce0b85cf3b"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u7aca\u76dc\u96aa+\u9644\u52a0\u689d\u6b3eB",
+        "A_count": "4",
+        "B_count": "0",
+        "C_count": "2",
+        "D_count": "0",
+        "E_count": "3",
+        "priority": "3"
+    },
+    {
+        "_id": {
+            "$oid": "61b30fe216d756ce0b85cf3c"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7aca\u76dc\u640d\u5931\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa",
+        "A_count": "2",
+        "B_count": "0",
+        "C_count": "2",
+        "D_count": "2",
+        "E_count": "0",
+        "priority": "2"
+    },
+    {
+        "_id": {
+            "$oid": "61b3103e16d756ce0b85cf3d"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa",
+        "A_count": "2",
+        "B_count": "0",
+        "C_count": "2",
+        "D_count": "3",
+        "E_count": "0",
+        "priority": "1"
+    },
+    {
+        "_id": {
+            "$oid": "61b3106616d756ce0b85cf3e"
+        },
+        "car_insurance": "\u5f37\u5236\u96aa",
+        "A_count": "0",
+        "B_count": "0",
+        "C_count": "0",
+        "D_count": "0",
+        "E_count": "0",
+        "priority": "0"
+    }
+]

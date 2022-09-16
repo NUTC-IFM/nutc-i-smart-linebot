@@ -1,0 +1,482 @@
+[
+    {
+        "_id": {
+            "$oid": "6156bff1f120b47d408697bd"
+        },
+        "user_id": "Ue8e6cc7f1f3e198b2530a36b3cf97299",
+        "content_id": "",
+        "status": "0",
+        "question_number": "0",
+        "score": "46",
+        "suitability_analysis_type": "\u7a4d\u6975\u578b",
+        "multiple_options": "",
+        "answer_record_suitability": "-1:3-2:3-3:5-4:5-5:4-6:5-7:4-8:4-9:5-10:1-11:4-12:3-13:1",
+        "answer_record_car_insurance": "-1:A-2:A-3:E-4:D-5:C-6:A-7:D-8:B-9:D-10:D-11:D-12:A",
+        "insurance_record": "-\u5f37\u5236\u96aa",
+        "life_stage_type_suitability": "\u6210\u5bb6\u7acb\u696d",
+        "life_stage_type_car_insurance": "\u958b\u59cb\u9000\u4f11\u898f\u5283"
+    },
+    {
+        "_id": {
+            "$oid": "617a28d8e43741350cfee11d"
+        },
+        "user_id": "Ub12b0b07035e98e9588a17014467cb38",
+        "answer_record_suitability": "-1:2-2:2-3:1-4:1-5:1-6:1-7:2-8:1-9:12-10:1-11:1-12:1",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "17",
+        "status": "0",
+        "suitability_analysis_type": "\u975e\u5e38\u8b39\u614e\u578b",
+        "answer_record_car_insurance": "-1:A-2:A-3:E-4:E-5:D-6:B-7:E-8:C-9:E-10:E-11:E",
+        "insurance_record": "-\u5f37\u5236\u96aa"
+    },
+    {
+        "_id": {
+            "$oid": "617a28eae43741350cfee5fd"
+        },
+        "user_id": "U1be4839278fcd7797948c1232b915682",
+        "answer_record_suitability": "-1:1-2:2-3:1-4:1-5:1-6:1-7:1-8:2-9:4-10:1-11:1-12:2-13:1",
+        "multiple_options": "",
+        "question_number": "1",
+        "score": "18",
+        "status": "Car_insurance_planning",
+        "suitability_analysis_type": "\u975e\u5e38\u8b39\u614e\u578b",
+        "life_stage_type_suitability": "\u9000\u4f11",
+        "answer_record_car_insurance": ""
+    },
+    {
+        "_id": {
+            "$oid": "617a29e9e43741350cff2df4"
+        },
+        "user_id": "Uf09c0ad1e0bed5e18ea1c4f2342430bf",
+        "answer_record_suitability": "-1:1-2:1-3:1-4:1-5:1-6:1-7:1-8:1-9:1-10:1-11:1-12:1",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "12",
+        "status": "0",
+        "suitability_analysis_type": "\u4fdd\u5b88\u578b"
+    },
+    {
+        "_id": {
+            "$oid": "619cb0a2e43741350c01bc93"
+        },
+        "user_id": "U5555317a4649c81ba9105f989af51a3e",
+        "answer_record_life_stage": "-1:1-2:1-3:1-4:1-5:1-6:3-7:2-8:3-9:2-10:4-11:3-12:34-13:3-14:3-15:1",
+        "life_stage_type": "",
+        "multiple_options": "",
+        "question_number": "1",
+        "score": "0",
+        "status": "Suitability_analysis",
+        "answer_record_life_stage2": "",
+        "answer_record_suitability": "",
+        "suitability_analysis_type": "",
+        "life_stage2_type": "\u89aa\u89aa\u5bf6\u8c9d",
+        "score2": "0",
+        "gender": "\u7537",
+        "age": "0-2",
+        "current_Q": "1",
+        "answered": "0",
+        "life_stage1_type": "\u6210\u5bb6\u7acb\u696d"
+    },
+    {
+        "_id": {
+            "$oid": "619efddf818c3c1ebd6c65f2"
+        },
+        "user_id": "U9e47cdc6a8a45c602bee0f8460c38f7a",
+        "answer_record_suitability": "-1:1",
+        "multiple_options": "",
+        "question_number": "2",
+        "score": "0",
+        "status": "Life_stage2",
+        "suitability_analysis_type": "",
+        "answer_record_life_stage": "-1:2-2:1-3:3-4:1-5:2-6:1-7:2-8:2-9:2-10:2-11:1-12:4-13:1-14:1-15:1",
+        "gender": "\u5973",
+        "life_stage_type": "\u55ae\u8eab\u8cb4\u65cf",
+        "age": "0-2",
+        "answer_record_life_stage2": "",
+        "life_stage2_type": "\u89aa\u89aa\u5bf6\u8c9d",
+        "current_Q": "2",
+        "answered": "0"
+    },
+    {
+        "_id": {
+            "$oid": "619effb2818c3c1ebd6cc862"
+        },
+        "user_id": "U26fafb0ad0556ac458011cdd0cefa669",
+        "answer_record_suitability": "-1:1-2:1-3:3-4:2-5:3-6:2-7:5-8:2-9:1-10:2-11:1-12:3-13:2",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "23",
+        "status": "0",
+        "suitability_analysis_type": "\u8b39\u614e\u578b",
+        "answer_record_car_insurance": "-1:E-2:A-3:A-4:A-5:B-6:A-7:E-8:A-9:C-10:C-11:D-12:B",
+        "insurance_record": "-\u5f37\u5236\u96aa-\u7b2c\u4e09\u4eba\u8cac\u4efb\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa+\u7aca\u76dc\u96aa+\u9644\u52a0\u689d\u6b3eA",
+        "answer_record_life_stage2": "",
+        "life_stage_type": "\u55ae\u8eab\u8cb4\u65cf",
+        "answer_record_life_stage": "-1:3-2:1-3:2-4:1-5:2-6:1-7:2-8:3-9:2-10:1-11:1-12:1-13:1-14:2-15:2",
+        "life_stage2_type": "\u9752\u6625\u6d3b\u529b",
+        "score2": "11",
+        "current_Q": "1",
+        "gender": "1",
+        "life_stage_type_car_insurance": "\u9752\u6625\u6d3b\u529b",
+        "life_stage_type_suitability": "\u55ae\u8eab\u8cb4\u65cf",
+        "life_stage1_type": "\u55ae\u8eab\u8cb4\u65cf",
+        "age": "3-21",
+        "answered": "0"
+    },
+    {
+        "_id": {
+            "$oid": "619f474d818c3c1ebd7c53a4"
+        },
+        "user_id": "U72c673de41509d0d336f2f1b80a67ae4",
+        "answer_record_suitability": "",
+        "multiple_options": "",
+        "question_number": "1",
+        "score": "0",
+        "status": "Suitability_analysis",
+        "suitability_analysis_type": "",
+        "answer_record_car_insurance": "-1:A-2:A-3:C-4:C-5:C-6:A-7:D-8:B-9:D-10:D-11:C-12:A",
+        "answer_record_life_stage": "-1:4-2:1-3:2-4:1-5:2-6:4-7:2-8:4-9:3-10:4-11:4-12:4-13:3-14:3-15:1",
+        "life_stage_type": "\u6210\u5bb6\u7acb\u696d",
+        "answer_record_life_stage2": "-1:1-2:1-3:1-4:1-5:1",
+        "insurance_record": "-\u5f37\u5236\u96aa-\u7aca\u76dc\u640d\u5931\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa",
+        "current_Q": "1",
+        "gender": "1",
+        "life_stage_type_suitability": "\u55ae\u8eab\u8cb4\u65cf_\u5c0f\u8cc7\u65cf",
+        "life_stage_type_car_insurance": "\u9000\u4f11",
+        "life_stage1_type": "\u6210\u5bb6\u7acb\u696d"
+    },
+    {
+        "_id": {
+            "$oid": "619f4771818c3c1ebd7c5c07"
+        },
+        "status": "Guarantee_gap_analysis",
+        "user_id": "U72c673de41509d0d336f2f1b80a67ae4",
+        "answer_record_guarantee_gap": "-1:1-2:0-3:5-4:4-5:3-6:4-7:2-8:3-9:4-10:3-11:3-12:4-13:4-14:1-15:10",
+        "question_number": "16"
+    },
+    {
+        "_id": {
+            "$oid": "619f4779818c3c1ebd7c5dca"
+        },
+        "status": "Joint_financial_planning",
+        "user_id": "U72c673de41509d0d336f2f1b80a67ae4",
+        "CPI": "20",
+        "ROI": "20",
+        "age": "23",
+        "cost": "20",
+        "email": "fred881215@gmail.com",
+        "expenditure": "5",
+        "income": "28",
+        "investable_amount": "50",
+        "loan": "3",
+        "question_number": "0",
+        "salary": "100",
+        "1": "5",
+        "gender": "1",
+        "kid": "0"
+    },
+    {
+        "_id": {
+            "$oid": "61a061c7818c3c1ebdb6b3fb"
+        },
+        "status": "Guarantee_gap_analysis",
+        "user_id": "U26fafb0ad0556ac458011cdd0cefa669",
+        "answer_record_guarantee_gap": "-1:1-2:0-3:1-4:0-5:0-6:1-7:1-8:0-9:1-10:1-11:1-12:1-13:3-14:1-15:1-16:1-17:1-18:2",
+        "question_number": "0"
+    },
+    {
+        "_id": {
+            "$oid": "61a48085818c3c1ebd99e75e"
+        },
+        "user_id": "Ub8bb47a19595c8aebe3ed8266d50bb29",
+        "answer_record_suitability": "-1:2-2:1-3:5-4:5-5:3-6:3-7:5-8:2-9:1-10:2-11:1-12:2",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "32",
+        "status": "0",
+        "suitability_analysis_type": "\u7a69\u5065\u578b"
+    },
+    {
+        "_id": {
+            "$oid": "61badb347f3d0e777104eb08"
+        },
+        "user_id": "U20d65902058b38d4fff86c95cfc99279",
+        "answer_record_suitability": "",
+        "multiple_options": "",
+        "question_number": "1",
+        "score": "0",
+        "status": "Suitability_analysis",
+        "suitability_analysis_type": "",
+        "current_Q": "1"
+    },
+    {
+        "_id": {
+            "$oid": "61cbdd9e7f3d0e7771b1684a"
+        },
+        "user_id": "U0b89682ee617f8d68d8004ccf177c5ad",
+        "answer_record_suitability": "-1:2-2:3-3:5-4:4-5:4-6:5-7:5-8:1-9:1234-10:1-11:5-12:4-13:2",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "49",
+        "status": "0",
+        "suitability_analysis_type": "\u7a4d\u6975\u578b",
+        "life_stage_type_suitability": "\u55ae\u8eab\u8cb4\u65cf"
+    },
+    {
+        "_id": {
+            "$oid": "624980b2d02e7bf5895323be"
+        },
+        "user_id": "U701a3becd7e53280a82b850c0416ada2",
+        "answer_record_suitability": "-1:2-2:2-3:2-4:2-5:3-6:3-7:3-8:1-9:45-10:1-11:3-12:3-13:2",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "34",
+        "status": "0",
+        "suitability_analysis_type": "\u7a69\u5065\u578b",
+        "life_stage_type_suitability": "\u958b\u59cb\u9000\u4f11\u898f\u5283"
+    },
+    {
+        "_id": {
+            "$oid": "624980c9d02e7bf589532a7f"
+        },
+        "user_id": "Ude7856877a2280922a60bf073ae0466b",
+        "answer_record_suitability": "-1:2",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "2",
+        "score": "2",
+        "status": "Suitability_analysis",
+        "suitability_analysis_type": ""
+    },
+    {
+        "_id": {
+            "$oid": "62498108d02e7bf589533f79"
+        },
+        "user_id": "Ua6f473ae949112829e36972b1c0da8b8",
+        "answer_record_suitability": "",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "1",
+        "score": "0",
+        "status": "Suitability_analysis",
+        "suitability_analysis_type": ""
+    },
+    {
+        "_id": {
+            "$oid": "62578078a4914f5ae6d94680"
+        },
+        "user_id": "U4005ad91ed392df202f03e5777f61013",
+        "answer_record_suitability": "-1:1-2:1-3:1-4:1-5:1-6:1-7:1-8:1-9:5-10:1-11:3-12:1-13:1",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "22",
+        "status": "0",
+        "suitability_analysis_type": "\u975e\u5e38\u8b39\u614e\u578b",
+        "life_stage_type_suitability": "\u9000\u4f11",
+        "answer_record_life_stage": "-1:1-2:1-3:3-4:1-5:1-6:2-7:1-8:2-9:1-10:2-11:1-12:-13:1-14:1-15:1",
+        "gender": "1",
+        "life_stage1_type": "\u55ae\u8eab\u8cb4\u65cf",
+        "age": "3-21",
+        "answer_record_life_stage2": "",
+        "answered": "0",
+        "life_stage2_type": "\u9752\u6625\u6d3b\u529b",
+        "answer_record_car_insurance": ""
+    },
+    {
+        "_id": {
+            "$oid": "62624a00cece34be2478e144"
+        },
+        "user_id": "U8849e5236a6b93cce84fb216f1c7d9b1",
+        "answer_record_suitability": "",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "0",
+        "status": "0",
+        "suitability_analysis_type": "",
+        "answer_record_life_stage": "-1:3-2:2",
+        "gender": "2",
+        "life_stage1_type": "",
+        "answer_record_car_insurance": "-1:D-2:B-3:C-4:A-5:C-6:B-7:E-8:A-9:D-10:E-11:E-12:B",
+        "insurance_record": "-\u5f37\u5236\u96aa-\u7aca\u76dc\u640d\u5931\u96aa-\u8eca\u9ad4\u640d\u5931\u96aa",
+        "life_stage_type_car_insurance": "\u55ae\u8eab\u8cb4\u65cf"
+    },
+    {
+        "_id": {
+            "$oid": "626fe86c20df581d080d57cf"
+        },
+        "status": "Joint_financial_planning",
+        "user_id": "U26fafb0ad0556ac458011cdd0cefa669",
+        "CPI": "2",
+        "ROI": "7",
+        "age": "21",
+        "cost": "100",
+        "email": "davidfang147@gmail.com",
+        "expenditure": "50",
+        "gender": "1",
+        "income": "100",
+        "investable_amount": "500",
+        "kid": "0",
+        "loan": "50",
+        "question_number": "0",
+        "salary": "300",
+        "staging": "10",
+        "rate": "5.0",
+        "PMT": "1000000.0"
+    },
+    {
+        "_id": {
+            "$oid": "6274ad4220df581d08d38814"
+        },
+        "status": "Guarantee_gap_analysis",
+        "user_id": "U4005ad91ed392df202f03e5777f61013",
+        "answer_record_guarantee_gap": "-1:1-2:0-3:1-4:0-5:0-6:7-7:3-8:2-9:2-10:2-11:3-12:1-13:1-14:2-15:6-16:5-17:5-18:1",
+        "question_number": "0"
+    },
+    {
+        "_id": {
+            "$oid": "6274ad8420df581d08d39450"
+        },
+        "status": "Joint_financial_planning",
+        "user_id": "U4005ad91ed392df202f03e5777f61013",
+        "CPI": "1",
+        "ROI": "1",
+        "age": "0",
+        "cost": "",
+        "email": "",
+        "expenditure": "",
+        "gender": "None",
+        "income": "1",
+        "investable_amount": "1",
+        "kid": "1",
+        "loan": "",
+        "question_number": "cost",
+        "salary": "1",
+        "staging": "3",
+        "rate": "3",
+        "PMT": "3"
+    },
+    {
+        "_id": {
+            "$oid": "6281a6d320df581d08dff40a"
+        },
+        "user_id": "U365c07c23be094b3eaf547ba96591e6e",
+        "answer_record_suitability": "-1:1-2:2-3:2-4:2-5:2-6:2-7:2-8:3-9:345-10:1-11:3-12:3-13:1",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "0",
+        "score": "35",
+        "status": "0",
+        "suitability_analysis_type": "\u7a69\u5065\u578b",
+        "life_stage_type_suitability": "\u9000\u4f11",
+        "answer_record_car_insurance": "-1:C-2:B-3:C-4:C-5:C-6:B-7:D-8:B-9:D-10:D-11:B-12:B",
+        "insurance_record": "-\u5f37\u5236\u96aa",
+        "life_stage_type_car_insurance": "\u70ba\u4eba\u7236\u6bcd"
+    },
+    {
+        "_id": {
+            "$oid": "6281acd320df581d08e0f890"
+        },
+        "status": "Joint_financial_planning",
+        "user_id": "U365c07c23be094b3eaf547ba96591e6e",
+        "CPI": "",
+        "ROI": "",
+        "age": "",
+        "cost": "",
+        "email": "",
+        "expenditure": "",
+        "gender": "",
+        "income": "",
+        "investable_amount": "",
+        "kid": "",
+        "loan": "",
+        "question_number": "age",
+        "salary": ""
+    },
+    {
+        "_id": {
+            "$oid": "62c65e923660afa8bab9d9c6"
+        },
+        "user_id": "U877d7ea9f4ee3baa3ee76f6ac4c0b88f",
+        "answer_record_suitability": "",
+        "current_Q": "1",
+        "multiple_options": "",
+        "question_number": "1",
+        "score": "0",
+        "status": "Suitability_analysis",
+        "suitability_analysis_type": ""
+    },
+    {
+        "_id": {
+            "$oid": "62c660f93660afa8baba7ecd"
+        },
+        "status": "0",
+        "user_id": "U8fc9ca9136a7ee4ab4a79c86a5d97974",
+        "CPI": "",
+        "ROI": "",
+        "age": "",
+        "cost": "",
+        "email": "",
+        "expenditure": "",
+        "gender": "",
+        "income": "",
+        "investable_amount": "",
+        "kid": "",
+        "loan": "",
+        "question_number": "0",
+        "salary": "",
+        "answer_record_car_insurance": "-1:D-2:A-3:D-4:A-5:D-6:B-7:D-8:C-9:D-10:E-11:D-12:B",
+        "current_Q": "1",
+        "answer_record_suitability": "-1:2-2:3-3:1-4:1-5:3-6:2-7:4-8:1-9:24-10:1-11:2-12:3-13:2",
+        "multiple_options": "",
+        "score": "29",
+        "suitability_analysis_type": "\u8b39\u614e\u578b",
+        "life_stage_type_suitability": "\u70ba\u4eba\u7236\u6bcd",
+        "insurance_record": "-\u5f37\u5236\u96aa",
+        "life_stage_type_car_insurance": "\u55ae\u8eab\u8cb4\u65cf"
+    },
+    {
+        "_id": {
+            "$oid": "62ce7ed63660afa8baa3788e"
+        },
+        "status": "Joint_financial_planning",
+        "user_id": "U8fc9ca9136a7ee4ab4a79c86a5d97974",
+        "CPI": "",
+        "ROI": "",
+        "age": "",
+        "cost": "",
+        "email": "",
+        "expenditure": "",
+        "gender": "",
+        "income": "",
+        "investable_amount": "",
+        "kid": "",
+        "loan": "",
+        "question_number": "age",
+        "salary": "",
+        "staging": "20",
+        "rate": "2.0",
+        "PMT": "1000000.0"
+    },
+    {
+        "_id": {
+            "$oid": "62ce7eee3660afa8baa37cf7"
+        },
+        "status": "Guarantee_gap_analysis",
+        "user_id": "U8fc9ca9136a7ee4ab4a79c86a5d97974",
+        "answer_record_guarantee_gap": "-1:1-2:0-3:4-4:2-5:4",
+        "question_number": "6"
+    },
+    {
+        "_id": {
+            "$oid": "62d0c1133660afa8ba153972"
+        },
+        "status": "Guarantee_gap_analysis",
+        "user_id": "U8849e5236a6b93cce84fb216f1c7d9b1",
+        "answer_record_guarantee_gap": "-1:1-2:0-3:1-4:0-5:0-6:1-7:1-8:0-9:3-10:1-11:3-12:2-13:4-14:2-15:3-16:3-17:2-18:2",
+        "question_number": "0"
+    }
+]

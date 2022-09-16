@@ -1,0 +1,1359 @@
+[
+    {
+        "_id": {
+            "$oid": "615ffcbf0b36c16b76ab1e5d"
+        },
+        "description": "\u60a8\u7684\u8cc7\u7522\u6de8\u503c\u7d04\u6709\u591a\u5c11\u6bd4\u4f8b\u53ef\u4ee5\u7528\u65bc\u6295\u8cc7\uff1f\u8acb\u6ce8\u610f\uff0c\u8cb7\u8ce3\u6295\u8cc7\u7522\u54c1\u53ef\u80fd\u5e36\u4f86\u8667\u640d\u3002",
+        "answer1": "0%",
+        "answer2": "\u5927\u904e 0%\u81f3 50%",
+        "answer3": "\u5927\u904e 50%",
+        "answer_sum": "3",
+        "question_number": "1",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d0f0a25fbfb36a968ee3c"
+        },
+        "description": "\u54ea\u9805\u63cf\u8ff0\u6700\u7b26\u5408\u60a8\u70ba\u9054\u5230\u9810\u671f\u5831\u916c\u800c\u9858\u610f\u627f\u53d7\u640d\u5931\u7684\u7a0b\u5ea6\uff1f",
+        "answer1": "\u4e0d\u80fd\u627f\u53d7\u4efb\u4f55\u8cc7\u672c\u640d\u5931",
+        "answer2": "\u8f15\u5fae\u7684\u8cc7\u672c\u640d\u5931",
+        "answer3": "\u9069\u5ea6\u7684\u8cc7\u672c\u640d\u5931",
+        "answer4": "\u8f03\u5927\u7684\u8cc7\u672c\u640d\u5931",
+        "answer_sum": "4",
+        "question_number": "2",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d105125fbfb36a968ee3d"
+        },
+        "description": "\u54ea\u4e00\u9805\u6700\u80fd\u63cf\u8ff0\u60a8\u7684\u6295\u8cc7\u76ee\u7684\uff1f",
+        "answer1": "\u4fdd\u969c\u8cc7\u672c",
+        "answer2": "\u5b9a\u671f\u6536\u5165",
+        "answer3": "\u5b9a\u671f\u6536\u5165\u53ca\u8cc7\u672c\u6210\u9577",
+        "answer4": "\u9577\u671f\u8cc7\u672c\u6210\u9577",
+        "answer5": "\u5927\u5e45\u8cc7\u672c\u6210\u9577",
+        "answer_sum": "5",
+        "question_number": "3",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d10fc25fbfb36a968ee3e"
+        },
+        "description": "\u9078\u9805\u986f\u793a\u4e86 5 \u7a2e\u4e0d\u540c\u6295\u8cc7\u7d44\u5408\u5728\u8f03\u77ed\u6295\u8cc7\u671f\u9593 (\u5982 1 \u5e74) \u5167\u7684\u6f5b\u5728\u6536\u76ca\u548c\u640d\u5931\uff0c\u60a8\u8a8d\u70ba\u54ea\u4e00\u7a2e\u6295\u8cc7\u7d44\u5408\u6700\u5438\u5f15\u60a8\uff1f ",
+        "answer1": "A \uff0d \u63a5\u53d7 \u00b19% \u7684\u6f5b\u5728\u6536\u76ca\u548c\u640d\u5931",
+        "answer2": "B \uff0d \u63a5\u53d7 \u00b116% \u7684\u6f5b\u5728\u6536\u76ca\u548c\u640d\u5931",
+        "answer3": "C \uff0d \u63a5\u53d7 \u00b122% \u7684\u6f5b\u5728\u6536\u76ca\u548c\u640d\u5931",
+        "answer4": "D \uff0d \u63a5\u53d7 \u00b128% \u7684\u6f5b\u5728\u6536\u76ca\u548c\u640d\u5931",
+        "answer5": "E \uff0d \u63a5\u53d7 \u00b135% \u7684\u6f5b\u5728\u6536\u76ca\u548c\u640d\u5931",
+        "answer_sum": "5",
+        "question_number": "4",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d128325fbfb36a968ee3f"
+        },
+        "description": "\u5018\u82e5\u60a8\u7684\u6295\u8cc7\u50f9\u683c\u7d93\u904e\u4e00\u6bb5\u6642\u9593\u5f8c\u7531\u65bc\u5e02\u5834\u6ce2\u52d5\u800c\u4e0b\u8dcc\uff0c\u60a8\u6703\u5982\u4f55\u8655\u7f6e\uff1f",
+        "answer1": "\u5373\u4f7f\u8dcc\u5e45\u8f15\u5fae\uff0c\u4e5f\u6703\u7acb\u523b\u51fa\u552e",
+        "answer2": "\u82e5\u4e0b\u8dcc\u5e45\u5ea6\u8f03\u5927\uff0c\u6703\u5c07\u6295\u8cc7\u5168\u90e8\u51fa\u552e",
+        "answer3": "\u82e5\u4e0b\u8dcc\u5e45\u5ea6\u8f03\u5927\uff0c\u6703\u5c07\u6295\u8cc7\u90e8\u5206\u51fa\u552e",
+        "answer4": "\u50f9\u683c\u4e0b\u8dcc\u4e5f\u4e0d\u6703\u51fa\u552e\uff0c\u7b49\u5f85\u50f9\u503c\u56de\u5347",
+        "answer5": "\u50f9\u683c\u4e0b\u8dcc\u4e5f\u4e0d\u6703\u51fa\u552e\uff0c\u8003\u616e\u8d81\u4f4e\u9032\u5834",
+        "answer_sum": "5",
+        "question_number": "5",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d12e425fbfb36a968ee40"
+        },
+        "description": "\u9078\u9805\u986f\u793a 5 \u7a2e\u4e0d\u540c\u6295\u8cc7\u7d44\u5408\u5728\u8f03\u9577\u6295\u8cc7\u671f\u9593\uff08\u5982 10 \u5e74\uff09\u7684\u50f9\u683c\u6ce2\u52d5\uff0c\u60a8\u6703\u9078\u64c7\u54ea\u9805\u6295\u8cc7\uff1f",
+        "answer1": "A \uff0d \u50f9\u683c\u53ef\u80fd\u6ce2\u52d5\u4e0d\u5927 (\u00b15%\u6ce2\u52d5)",
+        "answer2": "B \uff0d \u50f9\u683c\u53ef\u80fd\u5fae\u5e45\u6ce2\u52d5 (\u00b110%\u6ce2\u52d5)",
+        "answer3": "C \uff0d \u50f9\u683c\u53ef\u80fd\u9069\u5ea6\u6ce2\u52d5 (\u00b115%\u6ce2\u52d5)",
+        "answer4": "D \uff0d \u50f9\u683c\u53ef\u80fd\u76f8\u7576\u5927\u5e45\u6ce2\u52d5 (\u00b120%\u6ce2\u52d5)",
+        "answer5": "E \uff0d \u50f9\u683c\u53ef\u80fd\u5927\u5e45\u6ce2\u52d5 (\u8d85\u904e\u00b120%\u6ce2\u52d5)",
+        "answer_sum": "5",
+        "question_number": "6",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d135c25fbfb36a968ee41"
+        },
+        "description": "\u60a8\u7684\u5e74\u9f61?",
+        "answer1": "70\u6b72\u4ee5\u4e0a",
+        "answer2": "69-60\u6b72",
+        "answer3": "59-45\u6b72",
+        "answer4": "44-29\u6b72",
+        "answer5": "28-20\u6b72",
+        "answer_sum": "5",
+        "question_number": "7",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d13c125fbfb36a968ee43"
+        },
+        "description": "\u60a8\u6709\u4ee5\u4e0b\u4f55\u7a2e\u5b78\u6b77\u4f86\u5e6b\u52a9\u60a8\u7406\u89e3\u6295\u8cc7\u548c\u4fdd\u96aa\u7522\u54c1?",
+        "answer1": "\u535a\u58eb\u78a9\u58eb",
+        "answer2": "\u5927\u5b78",
+        "answer3": "\u5c08\u79d1",
+        "answer4": "\u9ad8\u4e2d\u9ad8\u8077",
+        "answer5": "\u4ee5\u4e0a\u7686\u975e",
+        "answer_sum": "5",
+        "question_number": "8",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d148225fbfb36a968ee44"
+        },
+        "description": "\u8acb\u9078\u64c7 (\u53ef\u8907\u9078) \u4ee5\u4e0b\u60a8\u66fe\u7d93 (\u542b\u76ee\u524d) \u6301\u6709\u548c\u5177\u5099\u76f8\u95dc\u77e5\u8b58\u7684\u6295\u8cc7\u5546\u54c1\u3002",
+        "answer1": "\u7121\u4efb\u4f55\u6295\u8cc7\u7d93\u9a57 (\u50c5\u6301\u6709\u975e\u6295\u8cc7\u578b\u4fdd\u55ae)",
+        "answer2": "\u6295\u8cc7\u578b\u4fdd\u55ae\u5546\u54c1",
+        "answer3": "\u884d\u751f\u6027\u91d1\u878d\u5546\u54c1\u6216\u7d50\u69cb\u578b\u7522\u54c1",
+        "answer4": "\u57fa\u91d1\u6216 ETF",
+        "answer5": "\u80a1\u7968\u3001\u50b5\u5238\u6216\u5916\u532f",
+        "answer_sum": "5",
+        "question_number": "9",
+        "final_question": "0",
+        "question_type": "Suitability_analysis_multiple",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d15f125fbfb36a968ee45"
+        },
+        "description": "\u60a8\u7684\u5be6\u52d9\u7d93\u9a57 (\u5982\u5728\u904e\u53bb 10 \u5e74\u5167\u6709 3 \u5e74\u4ee5\u4e0a\u5de5\u4f5c\u7d93\u9a57) \u662f\u5426\u53ef\u5354\u52a9\u7406\u89e3\u6295\u8cc7\u548c\u4fdd\u96aa\u7522\u54c1?",
+        "answer1": "\u662f",
+        "answer2": "\u5426",
+        "answer_sum": "2",
+        "question_number": "10",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d167b25fbfb36a968ee46"
+        },
+        "description": "\u4e0b\u5217\u4f55\u7a2e\u6295\u8cc7\u7d93\u9a57\u7684\u6558\u8ff0\u6700\u80fd\u63cf\u8ff0\u60a8\u5728\u6295\u8cc7\u65b9\u9762\u7684\u60c5\u6cc1(\u5305\u542b\u6295\u8cc7\u6642\u9593\u548c\u6295\u8cc7\u7522\u54c1)?",
+        "answer1": "\u7121\u4efb\u4f55\u6295\u8cc7\u7d93\u9a57",
+        "answer2": "\u6709\u9650\uff0c\u6b32\u5b78\u7fd2\u66f4\u591a\u6295\u8cc7\u76f8\u95dc\u5167\u5bb9",
+        "answer3": "\u4e00\u822c\uff0c\u6c92\u6709\u8208\u8da3\u5b78\u7fd2\u6295\u8cc7\u76f8\u95dc\u5167\u5bb9",
+        "answer4": "\u4e00\u822c\uff0c\u4e14\u540c\u6642\u5c0d\u6295\u8cc7\u9818\u57df\u6709\u8208\u8da3",
+        "answer5": "\u5ee3\u6cdb\uff0c\u4e14\u5c0d\u6295\u8cc7\u6c7a\u5b9a\u611f\u5230\u6709\u4fe1\u5fc3",
+        "answer_sum": "5",
+        "question_number": "11",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616d16e825fbfb36a968ee47"
+        },
+        "description": "\u70ba\u9054\u6210\u60a8\u7684\u6295\u8cc7\u76ee\u6a19\uff0c\u8acb\u554f\u60a8\u9858\u610f\u6301\u6709\u7684\u6295\u8cc7\u5e74\u9650\u6700\u9577\u70ba?",
+        "answer1": "\u5c11\u65bc 3 \u5e74",
+        "answer2": "\u4ecb\u65bc 3 \u5e74\u81f3 5 \u5e74 (\u542b)",
+        "answer3": "\u4ecb\u65bc 5 \u5e74\u81f3 10 \u5e74 (\u542b)",
+        "answer4": "10 \u5e74\u4ee5\u4e0a",
+        "answer_sum": "4",
+        "question_number": "12",
+        "final_question": "0",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "616fbb4616991cb97043a145"
+        },
+        "description": "\u60a8\u7684\u5e74\u9f61",
+        "answerA": "57\u6b72\u4ee5\u4e0a",
+        "answerB": "57-46\u6b72",
+        "answerC": "45-34\u6b72",
+        "answerD": "33-22\u6b72",
+        "answerE": "22\u6b72\u4ee5\u4e0b",
+        "answer_sum": "5",
+        "question_number": "1",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning"
+    },
+    {
+        "_id": {
+            "$oid": "616fbd8416991cb97043a146"
+        },
+        "description": "\u60a8\u7684\u6027\u5225",
+        "answerA": "\u7537",
+        "answerB": "\u5973",
+        "answer_sum": "2",
+        "question_number": "2",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning"
+    },
+    {
+        "_id": {
+            "$oid": "616fbdbd16991cb97043a147"
+        },
+        "description": "\u904e\u53bb\u4e94\u5e74\u7684\u8087\u4e8b\u7d00\u9304",
+        "answerA": "\u7121",
+        "answerB": "\u904e\u53bb\u50c5\u4e00\u6b21\u8087\u4e8b",
+        "answerC": "\u904e\u53bb\u4e8c\u6b21\u8087\u4e8b",
+        "answerD": "\u904e\u53bb\u4e09\u6b21\u8087\u4e8b",
+        "answerE": "\u6bcf\u5e74\u6709\u4e00\u6b21\u4ee5\u4e0a\u8087\u4e8b",
+        "answer_sum": "5",
+        "question_number": "3",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning"
+    },
+    {
+        "_id": {
+            "$oid": "616fbe3b16991cb97043a148"
+        },
+        "description": "\u904e\u53bb\u4e94\u5e74\u6709\u5e7e\u5e74\u6c92\u6709\u4efb\u4f55\u8ce0\u6b3e",
+        "answerA": "\u4e94\u5e74\u6c92\u6709\u4efb\u4f55\u8ce0\u6b3e",
+        "answerB": "\u56db\u5e74\u6c92\u6709\u4efb\u4f55\u8ce0\u6b3e",
+        "answerC": "\u4e09\u5e74\u6c92\u6709\u4efb\u4f55\u8ce0\u6b3e",
+        "answerD": "\u4e8c\u5e74\u6c92\u6709\u4efb\u4f55\u8ce0\u6b3e",
+        "answerE": "\u4e94\u5e74\u5747\u6709\u8ce0\u6b3e",
+        "answer_sum": "5",
+        "question_number": "4",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning"
+    },
+    {
+        "_id": {
+            "$oid": "616fbe8816991cb97043a149"
+        },
+        "description": "\u53d6\u5f97\u99d5\u7167\u6709\u5e7e\u5e74\u6642\u9593",
+        "answerA": "\u65b0\u624b",
+        "answerB": "\u4e94\u5e74\u5167",
+        "answerC": "6\u81f310\u5e74",
+        "answerD": "10\u5e74\u4ee5\u4e0a",
+        "answer_sum": "4",
+        "question_number": "5",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning"
+    },
+    {
+        "_id": {
+            "$oid": "616fc7f1e43741350c7f08f3"
+        },
+        "description": "\u5bb6\u4e2d\u662f\u5426\u6709\u8eca\u5eab",
+        "answerA": "\u7121",
+        "answerB": "\u6709",
+        "answer_sum": "2",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning",
+        "question_number": "6"
+    },
+    {
+        "_id": {
+            "$oid": "616fc7f1e43741350c7f08fe"
+        },
+        "description": "\u6c7d\u8eca\u7a2e\u985e",
+        "answerA": "\u570b\u7522\u8eca\u4e8c\u5e74\u5167\u65b0\u8eca",
+        "answerB": "\u9032\u53e3\u6c7d\u8eca\u4e09\u5e74\u5167",
+        "answerC": "\u570b\u7522\u8eca\u4e8c\u5e74\u4ee5\u4e0a-\u516b\u5e74",
+        "answerD": "\u9032\u53e3\u6c7d\u8eca\u4e09\u5e74\u4ee5\u4e0a\u81f3\u5341\u5e74",
+        "answerE": "\u4ee5\u4e0a\u7686\u975e",
+        "answer_sum": "5",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning",
+        "question_number": "7"
+    },
+    {
+        "_id": {
+            "$oid": "616fc7f1e43741350c7f0909"
+        },
+        "description": "\u8077\u696d\u985e\u5225",
+        "answerA": "\u5167\u52e4\u4eba\u54e1\u4e0d\u9700\u5916\u51fa",
+        "answerB": "\u5916\u52e4\u4eba\u58eb\u6bcf\u5929\u5916\u51fa",
+        "answerC": "\u5167\u52e4\u4eba\u54e1\u9700\u5916\u51fa\u6216\u5916\u52e4\u4eba\u58eb\u8f03\u5c11\u5916\u51fa",
+        "answer_sum": "3",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning",
+        "question_number": "8"
+    },
+    {
+        "_id": {
+            "$oid": "616fc7f1e43741350c7f091d"
+        },
+        "description": "\u5c0d\u65bc\u6c7d\u8eca\u88ab\u649e\u51f9\u3001\u522e\u82b1   \u60a8\u7684\u91cd\u8996\u7a0b\u5ea6(\u4e00\u5206_\u70ba\u4e0d\u5728\u610f \u81f3\u5341\u5206_\u6975\u70ba\u5728\u610f)",
+        "answerA": "\u4e00\u5206",
+        "answerB": "\u4e8c\u5206",
+        "answerC": "\u4e09\u81f3\u4e94\u5206",
+        "answerD": "\u516d\u81f3\u4e5d\u5206",
+        "answerE": "\u5341\u5206",
+        "answer_sum": "5",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning",
+        "question_number": "9"
+    },
+    {
+        "_id": {
+            "$oid": "616fc7f1e43741350c7f0927"
+        },
+        "description": "\u5c0d\u65bc\u6c7d\u8eca\u5931\u7aca   \u7522\u751f\u4ee3\u6b65 \u751f\u6d3b\u4e0d\u4fbf\u5229\u6027\u7a0b\u5ea6(\u4e00\u5206_\u70ba\u4e0d\u5728\u610f \u81f3\u5341\u5206_\u6975\u70ba\u5728\u610f)",
+        "answerA": "\u4e00\u5206",
+        "answerB": "\u4e8c\u5206",
+        "answerC": "\u4e09\u81f3\u4e94\u5206",
+        "answerD": "\u516d\u81f3\u4e5d\u5206",
+        "answerE": "\u5341\u5206",
+        "answer_sum": "5",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning",
+        "question_number": "10"
+    },
+    {
+        "_id": {
+            "$oid": "616fc7f1e43741350c7f0931"
+        },
+        "description": "\u5047\u8a2d\u8207\u4ed6\u8eca\u767c\u751f\u8eca\u798d   \u7522\u751f\u7126\u616e\u8a34\u8a1f\u91cd\u8996\u7a0b\u5ea6(\u4e00\u5206_\u70ba\u4e0d\u5728\u610f \u81f3\u5341\u5206_\u6975\u70ba\u5728\u610f)",
+        "answerA": "\u4e00\u5206",
+        "answerB": "\u4e8c\u5206",
+        "answerC": "\u4e09\u81f3\u4e94\u5206",
+        "answerD": "\u516d\u81f3\u4e5d\u5206",
+        "answerE": "\u5341\u5206",
+        "answer_sum": "5",
+        "final_question": "0",
+        "question_group": "Car_insurance_planning",
+        "question_number": "11"
+    },
+    {
+        "_id": {
+            "$oid": "619a60f1b3ec6cd2149cb198"
+        },
+        "description": "\u5e74\u9f61?",
+        "answer1": "0-3",
+        "answer2": "3-21",
+        "answer3": "22-30",
+        "answer4": "28-35",
+        "answer5": "30-45",
+        "answer_sum": "7",
+        "question_number": "1",
+        "final_question": "0",
+        "question_group": "Life_stage2",
+        "question_type": "Life_stage2",
+        "answer6": "45-66",
+        "answer7": "65+"
+    },
+    {
+        "_id": {
+            "$oid": "619a6110b3ec6cd2149cb199"
+        },
+        "description": "\u6027\u5225?",
+        "answer1": "\u7537",
+        "answer2": "\u5973",
+        "answer_sum": "2",
+        "question_number": "2",
+        "final_question": "1",
+        "question_group": "Life_stage2",
+        "question_type": "Life_stage2"
+    },
+    {
+        "_id": {
+            "$oid": "619c84f874f9b53cb390f5fa"
+        },
+        "description": "\u5e74\u9f61(\u5be6\u6b72)",
+        "answer1": "0-3",
+        "answer1_count": "1",
+        "answer2": "4-18",
+        "answer2_count": "2",
+        "answer3": "19-27",
+        "answer3_count": "3",
+        "answer4": "28-34",
+        "answer4_count": "4",
+        "answer5": "35-45",
+        "answer5_count": "5",
+        "answer6": "46-65",
+        "answer6_count": "6",
+        "answer_sum": "6",
+        "question_number": "1",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c850f74f9b53cb390f5fb"
+        },
+        "description": "\u6027\u5225",
+        "answer1": "\u7537",
+        "answer1_count": "2",
+        "answer2": "\u5973",
+        "answer2_count": "1",
+        "answer_sum": "2",
+        "question_number": "2",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c850f74f9b53cb390f5fc"
+        },
+        "description": "\u60a8\u76ee\u524d\u7684\u8077\u696d?",
+        "answer1": "\u8ecd\u516c\u6559",
+        "answer1_count": "1",
+        "answer2": "\u670d\u52d9\u696d",
+        "answer2_count": "2",
+        "answer3": "\u88fd\u9020\u696d",
+        "answer3_count": "3",
+        "answer_sum": "3",
+        "question_number": "3",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c850f74f9b53cb390f5fd"
+        },
+        "description": "\u500b\u4eba\u662f\u5426\u70ba\u5bb6\u5ead\u7684\u4e3b\u8981\u7d93\u6fdf\u4f86\u6e90",
+        "answer1": "\u662f",
+        "answer1_count": "2",
+        "answer2": "\u5426",
+        "answer2_count": "1",
+        "answer_sum": "2",
+        "question_number": "4",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c850f74f9b53cb390f5fe"
+        },
+        "description": "\u5a5a\u59fb\u72c0\u6cc1",
+        "answer1": "\u5df2\u5a5a",
+        "answer1_count": "2",
+        "answer2": "\u672a\u5a5a",
+        "answer2_count": "1",
+        "answer_sum": "2",
+        "question_number": "5",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c850f74f9b53cb390f5ff"
+        },
+        "description": "\u5bb6\u5ead\u6210\u54e1(\u5b50\u5973\u4eba\u6578)\u00a0",
+        "answer1": "0",
+        "answer1_count": "0",
+        "answer2": "1",
+        "answer2_count": "0",
+        "answer3": "2",
+        "answer3_count": "0",
+        "answer4": "3",
+        "answer4_count": "0",
+        "answer5": ">3",
+        "answer5_count": "0",
+        "answer_sum": "5",
+        "question_number": "6",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f601"
+        },
+        "description": "\u6700\u9ad8\u5b78\u6b77",
+        "answer1": "\u535a\u58eb\u3001\u78a9\u58eb",
+        "answer1_count": "1",
+        "answer2": "\u5927\u5b78\u3001\u5c08\u79d1",
+        "answer2_count": "2",
+        "answer3": "\u9ad8\u4e2d\u3001\u8077",
+        "answer3_count": "3",
+        "answer4": "\u570b\u4e2d",
+        "answer4_count": "4",
+        "answer_sum": "4",
+        "question_number": "7",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f602"
+        },
+        "description": "\u5bb6\u5ead\u6708\u6240\u5f97\u72c0\u6cc1",
+        "answer1": "5\u842c\u5143\u4ee5\u4e0b",
+        "answer1_count": "1",
+        "answer2": "5\u842c\u4ee5\u4e0a~10\u842c",
+        "answer2_count": "2",
+        "answer3": "10\u842c\u4ee5\u4e0a~15\u842c",
+        "answer3_count": "3",
+        "answer4": "\u5176\u4ed6",
+        "answer4_count": "4",
+        "question_number": "9",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1",
+        "answer_sum": "4"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f603"
+        },
+        "description": "\u8ca0\u50b5\u591a\u5c11\uff1f\u623f\u8cb8.\u8eca\u8cb8.\u4fe1\u8cb8.\u5b78\u8cb8\u7b49",
+        "answer1": "\u7121",
+        "answer1_count": "1",
+        "answer2": "\u4e94\u5341\u842c\u4ee5\u4e0b",
+        "answer2_count": "2",
+        "answer3": "50-100",
+        "answer3_count": "3",
+        "answer4": "100-500",
+        "answer4_count": "4",
+        "answer5": "500-1000",
+        "answer5_count": "5",
+        "answer6": "\u8d85\u904e\u4e00\u5343\u842c",
+        "answer6_count": "6",
+        "answer_sum": "6",
+        "question_number": "10",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f604"
+        },
+        "description": "\u60a8\u76ee\u524d\u73fe\u6709\u7406\u8ca1\u898f\u5283\u6709(\u53ef\u8907\u9078)",
+        "answer1": "\u6d3b\u5132\u3001\u5b9a\u5b58\u7b49\u5229\u606f\u6536\u5165",
+        "answer1_count": "1",
+        "answer2": "\u4e0d\u52d5\u7522(\u623f\u79df\u6536\u5165)",
+        "answer2_count": "2",
+        "answer3": "\u9280\u884c\u5916\u5e63\u5b58\u6b3e\u3001\u57fa\u91d1\u6216\u80a1\u7968",
+        "answer3_count": "2",
+        "answer4": "\u6295\u8cc7\u578b\u4fdd\u55ae\u5132\u84c4\u96aa",
+        "answer4_count": "1",
+        "answer5": "\u5176\u4ed6",
+        "answer5_count": "1",
+        "answer_sum": "5",
+        "question_number": "11",
+        "final_question": "0",
+        "question_type": "Life_stage1_multiple",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f605"
+        },
+        "description": "\u60a8\u76ee\u524d\u64c1\u6709\u54ea\u4e9b\u4fdd\u96aa\uff1f (\u53ef\u8907\u9078)",
+        "answer1": "\u52de\u5065\u4fdd",
+        "answer1_count": "1",
+        "answer2": "\u570b\u6c11\u5e74\u91d1\u4fdd\u96aa",
+        "answer2_count": "2",
+        "answer3": "\u516c\u4fdd\u6216\u8ecd\u4fdd",
+        "answer3_count": "2",
+        "answer4": "\u516c\u53f8\u5718\u4fdd",
+        "answer4_count": "2",
+        "answer5": "\u8fb2\u4fdd",
+        "answer5_count": "1",
+        "answer_sum": "5",
+        "question_number": "12",
+        "final_question": "0",
+        "question_type": "Life_stage1_multiple",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f606"
+        },
+        "description": "\u60a8\u8a8d\u70ba\u76ee\u524d\u591a\u5c11\u4fdd\u96aa\u984d\u5ea6\u624d\u8db3\u5920\u5462?",
+        "answer1": "100\u842c~300\u842c",
+        "answer1_count": "1",
+        "answer2": "300\u842c~500\u842c",
+        "answer2_count": "2",
+        "answer3": "500\u842c~1000\u842c",
+        "answer3_count": "3",
+        "answer4": "\u5176\u4ed6",
+        "answer4_count": "4",
+        "answer_sum": "4",
+        "question_number": "13",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f607"
+        },
+        "description": "\u9664\u4e86\u5bb6\u5ead\u652f\u51fa\u5916,\u60a8\u53ef\u63a5\u53d7\u4fdd\u8cbb\u9810\u7b97\u5982\u4f55?(\u6bcf\u500b\u6708)",
+        "answer1": "1000\u5143-5000\u5143\u5167",
+        "answer1_count": "1",
+        "answer2": "5000\u5143~1\u842c\u5143\u5167",
+        "answer2_count": "2",
+        "answer3": "1\u842c\u5143~3\u842c\u5143\u5167",
+        "answer3_count": "3",
+        "answer4": "3\u842c\u5143~5\u842c\u5143\u5167",
+        "answer4_count": "4",
+        "answer5": "\u5176\u4ed6",
+        "answer5_count": "1",
+        "answer_sum": "5",
+        "question_number": "14",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c854e74f9b53cb390f608"
+        },
+        "description": "\u904e\u53bb\u4e94\u5e74\u5167\u662f\u5426\u66fe\u56e0\u53d7\u50b7\u6216\u751f\u75c5\u4f4f\u9662\u6cbb\u7642\u4e03\u65e5\u4ee5\u4e0a\uff1f\u8aa0\u5be6\u544a\u77e5\u5c07\u53ef\u514d\u53bb\u672a\u4f86\u4e0d\u5fc5\u8981\u7684\u7406\u8ce0\u722d\u8b70\u3002",
+        "answer1": "\u662f",
+        "answer1_count": "2",
+        "answer2": "\u5426",
+        "answer2_count": "1",
+        "answer_sum": "2",
+        "question_number": "15",
+        "final_question": "1",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619c8d2274f9b53cb390f609"
+        },
+        "description": "\u5e73\u5747\u5de5\u4f5c\u6642\u9593 \u5c0f\u6642/\u9031",
+        "answer1": "0\u5c0f\u6642",
+        "answer1_count": "4",
+        "answer2": "40\u5c0f\u6642",
+        "answer2_count": "3",
+        "answer3": "48\u5c0f\u6642",
+        "answer3_count": "2",
+        "answer4": "60\u5c0f\u6642",
+        "answer4_count": "1",
+        "answer5": "\u5176\u4ed6",
+        "answer5_count": "1",
+        "answer_sum": "5",
+        "question_number": "8",
+        "final_question": "0",
+        "question_type": "Life_stage1",
+        "question_group": "Life_stage1"
+    },
+    {
+        "_id": {
+            "$oid": "619a42c9757d0185e37a583a"
+        },
+        "description": "\u8acb\u554f\u4f60\u7d50\u5a5a\u4e86\u55ce\uff1f",
+        "answer1": "\u672a\u5a5a",
+        "answer2": "\u5df2\u5a5a",
+        "answer_sum": "2",
+        "question_number": "1",
+        "final_question": "0",
+        "can_skip": true,
+        "skip_answer": "1",
+        "skip_to_question": "3",
+        "skip_answer_value": "2:0",
+        "question_type": "guarantee_gap_analysis",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a42f1757d0185e37a583b"
+        },
+        "description": "\u4f60\u7684\u914d\u5076\u6bcf\u5e74\u7684\u6536\u5165\u5927\u7d04\u662f\u591a\u5c11\uff1f",
+        "answer1": "\u7121",
+        "answer2": "40\u842c\u4ee5\u4e0b",
+        "answer3": "41 - 60\u842c",
+        "answer4": "61 - 80\u842c",
+        "answer5": "81 - 100\u842c",
+        "answer6": "101 - 150\u842c",
+        "answer7": "151 - 200\u842c",
+        "answer8": "201\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "20",
+        "answer3_value": "50",
+        "answer4_value": "70",
+        "answer5_value": "90",
+        "answer6_value": "125",
+        "answer7_value": "175",
+        "answer8_value": "225",
+        "answer_sum": "8",
+        "question_number": "2",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4334757d0185e37a583c"
+        },
+        "description": "\u8acb\u554f\u4f60\u6709\u5e7e\u4f4d\u5c0f\u5b69\uff1f",
+        "answer1": "\u7121",
+        "answer2": "1\u4f4d",
+        "answer3": "2\u4f4d",
+        "answer4": "3\u4f4d",
+        "answer5": "4\u4f4d\uff08\u542b\uff09\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "1",
+        "answer3_value": "2",
+        "answer4_value": "3",
+        "answer5_value": "4",
+        "answer_sum": "5",
+        "question_number": "3",
+        "final_question": "0",
+        "can_skip": true,
+        "skip_answer": "1",
+        "skip_to_question": "6",
+        "skip_answer_value": "4:0-5:0",
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a438c757d0185e37a583d"
+        },
+        "description": "\u4f60\u6253\u7b97\u57f9\u990a\u5c0f\u5b69\u5230\u4f55\u7a2e\u6559\u80b2\u7a0b\u5ea6\uff1f",
+        "answer1": "\u9ad8\u4e2d\uff08\u8077\uff09",
+        "answer2": "\u5927\u5b78",
+        "answer3": "\u78a9\u58eb",
+        "answer4": "\u535a\u58eb",
+        "answer_sum": "4",
+        "question_number": "4",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a43ac757d0185e37a583e"
+        },
+        "description": "\u4f60\u9810\u4f30\u57f9\u80b2\u4e00\u4f4d\u5c0f\u5b69\u5230\u4e0a\u8ff0\u7684\u6559\u80b2\u7a0b\u5ea6\u7d04\u9700\u591a\u5c11\u82b1\u8cbb\uff08\u542b\u624d\u85dd\u73ed\u3001\u5b89\u89aa\u73ed\u7b49\uff09\uff1f\uff08\u63d0\u793a\uff1a\u516c\u7acb\u5c0f\u5b78\u81f3\u5927\u5b78\u7d04200\u842c\uff0c\u570b\u5916\u7814\u7a76\u6240\u53e6\u5916\u52a0\u7d04300\u842c\u5143\uff09",
+        "answer1": "150\u842c\u4ee5\u4e0b",
+        "answer2": "151 - 250\u842c",
+        "answer3": "251 - 300\u842c",
+        "answer4": "301 - 350\u842c",
+        "answer5": "351 - 400\u842c",
+        "answer6": "401 - 450\u842c",
+        "answer7": "451 - 500\u842c",
+        "answer8": "501\u842c\u4ee5\u4e0a",
+        "answer1_value": "125",
+        "answer2_value": "200",
+        "answer3_value": "275",
+        "answer4_value": "325",
+        "answer5_value": "375",
+        "answer6_value": "425",
+        "answer7_value": "475",
+        "answer8_value": "525",
+        "answer_sum": "8",
+        "question_number": "5",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a43c0757d0185e37a583f"
+        },
+        "description": "\u8acb\u554f\u4f60\u662f\u5426\u6709\u623f\u5c4b\u8cb8\u6b3e\uff1f\u7e3d\u984d\u591a\u5c11\uff1f",
+        "answer1": "\u7121\u8cb8\u6b3e",
+        "answer2": "100\u842c\u4ee5\u4e0b",
+        "answer3": "101 - 200\u842c",
+        "answer4": "201 - 300\u842c",
+        "answer5": "301 - 400\u842c",
+        "answer6": "401 - 500\u842c",
+        "answer7": "501 - 600\u842c",
+        "answer8": "601 - 700\u842c",
+        "answer9": "701 - 800\u842c",
+        "answer10": "801 - 900\u842c",
+        "answer11": "901 - 1000\u842c",
+        "answer12": "1001\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "50",
+        "answer3_value": "150",
+        "answer4_value": "250",
+        "answer5_value": "350",
+        "answer6_value": "450",
+        "answer7_value": "550",
+        "answer8_value": "650",
+        "answer9_value": "750",
+        "answer10_value": "850",
+        "answer11_value": "950",
+        "answer12_value": "1050",
+        "answer_sum": "12",
+        "question_number": "6",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a43d6757d0185e37a5840"
+        },
+        "description": "\u8acb\u554f\u4f60\u662f\u5426\u6709\u79df\u8cc3\u623f\u5c4b\uff1f\u6bcf\u500b\u6708\u7684\u623f\u79df\u662f\u591a\u5c11\uff1f",
+        "answer1": "\u7121\u79df\u5c4b",
+        "answer2": "1\u842c\u5143\u4ee5\u4e0b",
+        "answer3": "1.1 - 2\u842c",
+        "answer4": "2.1 - 3\u842c",
+        "answer5": "3.1 - 4\u842c",
+        "answer6": "4.1 - 5\u842c",
+        "answer7": "5.1 - 6\u842c",
+        "answer8": "6.1\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "6",
+        "answer3_value": "18",
+        "answer4_value": "30",
+        "answer5_value": "43",
+        "answer6_value": "54",
+        "answer7_value": "66",
+        "answer8_value": "78",
+        "answer_sum": "8",
+        "question_number": "7",
+        "final_question": "0",
+        "can_skip": true,
+        "skip_answer": "1",
+        "skip_to_question": "9",
+        "skip_answer_value": "8:0",
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a43ea757d0185e37a5841"
+        },
+        "description": "\u4f60\u9810\u8a08\u9084\u6703\u7e8c\u79df\u591a\u4e45\uff1f",
+        "answer1": "1\u5e74\u4ee5\u4e0b",
+        "answer2": "2\u5e74",
+        "answer3": "3\u5e74",
+        "answer4": "4\u5e74",
+        "answer5": "5\u5e74",
+        "answer6": "6\u5e74\u4ee5\u4e0a",
+        "answer1_value": "1",
+        "answer2_value": "2",
+        "answer3_value": "3",
+        "answer4_value": "4",
+        "answer5_value": "5",
+        "answer6_value": "6",
+        "answer_sum": "6",
+        "question_number": "8",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a43fa757d0185e37a5842"
+        },
+        "description": "\u8acb\u554f\u4f60\u5e0c\u671b\u70ba\u81ea\u5df1\u6e96\u5099\u591a\u5c11\u55aa\u846c\u8cbb\u7528\uff1f",
+        "answer1": "40\u842c\u4ee5\u4e0b",
+        "answer2": "41 - 50\u842c",
+        "answer3": "51 - 60\u842c",
+        "answer4": "61 - 70\u842c",
+        "answer5": "71 - 80\u842c",
+        "answer6": "81\u842c\u4ee5\u4e0a",
+        "answer1_value": "35",
+        "answer2_value": "45",
+        "answer3_value": "55",
+        "answer4_value": "65",
+        "answer5_value": "75",
+        "answer6_value": "85",
+        "answer_sum": "6",
+        "question_number": "9",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a440f757d0185e37a5843"
+        },
+        "description": "\u4f60\u6709\u591a\u5c11\u5176\u4ed6\u5c1a\u672a\u6e05\u511f\u7684\u501f\u6b3e\uff1f\uff08\u5982\uff1a\u6703\u9322\u3001\u4fe1\u7528\u5361\u3001\u6c7d\u8eca\u8cb8\u6b3e\u7b49\uff09",
+        "answer1": "\u7121",
+        "answer2": "50\u842c\u4ee5\u4e0b",
+        "answer3": "51 - 100\u842c",
+        "answer4": "101 - 150\u842c",
+        "answer5": "151 - 200\u842c",
+        "answer6": "200\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "25",
+        "answer3_value": "75",
+        "answer4_value": "125",
+        "answer5_value": "175",
+        "answer6_value": "225",
+        "answer_sum": "6",
+        "question_number": "10",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4421757d0185e37a5844"
+        },
+        "description": "\u4f60\u5e0c\u671b\u70ba\u5bb6\u5ead\u6e96\u5099\u591a\u5c11\u61c9\u6025\u8cbb\u7528\uff1f\uff08\u5982\uff1a\u5bb6\u4eba\u50b7\u75c5\u8cbb\u3001\u6c7d\u4fee\u8cbb\u3001\u623f\u5c4b\u4fee\u7e55\u7b49\uff09",
+        "answer1": "\u7121",
+        "answer2": "20\u842c\u4ee5\u4e0b",
+        "answer3": "21 - 100\u842c",
+        "answer4": "101 - 150\u842c",
+        "answer5": "151 - 300\u842c",
+        "answer6": "301 - 400\u842c",
+        "answer7": "401 - 500\u842c",
+        "answer8": "501\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "15",
+        "answer3_value": "50",
+        "answer4_value": "125",
+        "answer5_value": "200",
+        "answer6_value": "350",
+        "answer7_value": "450",
+        "answer8_value": "550",
+        "answer_sum": "8",
+        "question_number": "11",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4432757d0185e37a5845"
+        },
+        "description": "\u4f60\u6bcf\u500b\u6708\u5bb6\u5ead\u7684\u958b\u92b7\uff08\u5982\uff1a\u98df\u3001\u8863\u3001\u4f4f\u3001\u884c\u3001\u7a05\u3001\u4ea4\u969b\u3001\u7236\u6bcd\u5b5d\u990a\u8cbb\u3001\u6709\u5c0f\u5b69\u52a0\u8913\u6bcd\u8cbb\u7b49\uff09",
+        "answer1": "1\u842c\u4ee5\u4e0b",
+        "answer2": "1.1 - 3\u842c",
+        "answer3": "3.1 - 4\u842c",
+        "answer4": "4.1 - 5\u842c",
+        "answer5": "5.1 - 7\u842c",
+        "answer6": "7.1 - 8\u842c",
+        "answer7": "8.1 - 10\u842c",
+        "answer8": "10\u842c\u4ee5\u4e0a",
+        "answer1_value": "6",
+        "answer2_value": "24",
+        "answer3_value": "42",
+        "answer4_value": "54",
+        "answer5_value": "72",
+        "answer6_value": "90",
+        "answer7_value": "108",
+        "answer8_value": "126",
+        "answer_sum": "8",
+        "question_number": "12",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4442757d0185e37a5846"
+        },
+        "description": "\u4f60\u5e0c\u671b\u8eab\u5f8c\u70ba\u5bb6\u4eba\u7559\u591a\u5c11\u5e74\u7684\u751f\u6d3b\u8cbb\uff1f",
+        "answer1": "5\u5e74\u4ee5\u4e0b",
+        "answer2": "6 - 10\u5e74",
+        "answer3": "11 - 15\u5e74",
+        "answer4": "16 - 20\u5e74",
+        "answer5": "21 - 25\u5e74",
+        "answer6": "26\u5e74\u4ee5\u4e0a",
+        "answer1_value": "3",
+        "answer2_value": "8",
+        "answer3_value": "13",
+        "answer4_value": "18",
+        "answer5_value": "23",
+        "answer6_value": "28",
+        "answer_sum": "6",
+        "question_number": "13",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4456757d0185e37a5847"
+        },
+        "description": "\u8acb\u554f\u9664\u4e86\u5de5\u4f5c\u6536\u5165\u5916\uff0c\u4f60\u662f\u5426\u9084\u6709\u5176\u4ed6\u5e74\u6536\u5165\uff08\u5982\uff1a\u5229\u606f\u3001\u79df\u91d1\u3001\u7a3f\u8cbb\u3001\u5408\u5925\u751f\u610f\u7b49\uff09\uff1f",
+        "answer1": "\u7121",
+        "answer2": "20\u842c\u4ee5\u4e0b",
+        "answer3": "21 - 30\u842c",
+        "answer4": "31 - 40\u842c",
+        "answer5": "41 - 50\u842c",
+        "answer6": "51\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "15",
+        "answer3_value": "25",
+        "answer4_value": "35",
+        "answer5_value": "45",
+        "answer6_value": "55",
+        "answer_sum": "6",
+        "question_number": "14",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4468757d0185e37a5848"
+        },
+        "description": "\u4f60\u76ee\u524d\u64c1\u6709\u591a\u5c11\u4e00\u822c\u8eab\u6545\u7684\u4fdd\u969c\uff1f",
+        "answer1": "\u7121",
+        "answer2": "100\u842c\u4ee5\u4e0b",
+        "answer3": "101 - 200\u842c",
+        "answer4": "201 - 300\u842c",
+        "answer5": "301 - 400\u842c",
+        "answer6": "401 - 500\u842c",
+        "answer7": "501 - 600\u842c",
+        "answer8": "601 - 700\u842c",
+        "answer9": "701 - 800\u842c",
+        "answer10": "801 - 900\u842c",
+        "answer11": "901 - 1000\u842c",
+        "answer12": "1001\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "50",
+        "answer3_value": "150",
+        "answer4_value": "250",
+        "answer5_value": "350",
+        "answer6_value": "450",
+        "answer7_value": "550",
+        "answer8_value": "650",
+        "answer9_value": "750",
+        "answer10_value": "850",
+        "answer11_value": "950",
+        "answer12_value": "1050",
+        "answer_sum": "12",
+        "question_number": "15",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4479757d0185e37a5849"
+        },
+        "description": "\u4f60\u76ee\u524d\u7d04\u6709\u591a\u5c11\u9280\u884c\u5b58\u6b3e\uff1f",
+        "answer1": "\u7121",
+        "answer2": "30\u842c\u4ee5\u4e0b",
+        "answer3": "31 - 50\u842c",
+        "answer4": "51 - 100\u842c",
+        "answer5": "101 - 150\u842c",
+        "answer6": "151 - 200\u842c",
+        "answer7": "201 - 300\u842c",
+        "answer8": "301 - 400\u842c",
+        "answer9": "401 - 500\u842c",
+        "answer10": "501\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "15",
+        "answer3_value": "40",
+        "answer4_value": "75",
+        "answer5_value": "125",
+        "answer6_value": "175",
+        "answer7_value": "250",
+        "answer8_value": "350",
+        "answer9_value": "450",
+        "answer10_value": "550",
+        "answer_sum": "10",
+        "question_number": "16",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4489757d0185e37a584a"
+        },
+        "description": "\u4f60\u76ee\u524d\u5f9e\u4e8b\u6295\u8cc7\u7684\u91d1\u984d\u7d04\u70ba\u591a\u5c11\uff1f\uff08\u5982\uff1a\u80a1\u7968\u3001\u57fa\u91d1\u3001\u50b5\u5238\u7b49\uff09",
+        "answer1": "\u7121",
+        "answer2": "30\u842c\u4ee5\u4e0b",
+        "answer3": "31 - 50\u842c",
+        "answer4": "51 - 100\u842c",
+        "answer5": "101 - 150\u842c",
+        "answer6": "151 - 200\u842c",
+        "answer7": "201 - 300\u842c",
+        "answer8": "301 - 400\u842c",
+        "answer9": "401 - 500\u842c",
+        "answer10": "501\u842c\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "15",
+        "answer3_value": "40",
+        "answer4_value": "75",
+        "answer5_value": "125",
+        "answer6_value": "175",
+        "answer7_value": "250",
+        "answer8_value": "350",
+        "answer9_value": "450",
+        "answer10_value": "550",
+        "answer_sum": "10",
+        "question_number": "17",
+        "final_question": "0",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "619a4489757d0185e37a584b"
+        },
+        "description": "\u4f60\u7684\u5e74\u9f61\uff1f",
+        "answer1": "0 ~ 18",
+        "answer2": "19 ~ 30",
+        "answer3": "31 ~ 50",
+        "answer4": "50\u4ee5\u4e0a",
+        "answer1_value": "0",
+        "answer2_value": "29",
+        "answer3_value": "33",
+        "answer4_value": "70",
+        "answer_sum": "4",
+        "question_number": "18",
+        "final_question": "1",
+        "can_skip": false,
+        "question_type": "guarantee_gap_analysis_answer",
+        "question_group": "guarantee_gap_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "61cc13242972486988140784"
+        },
+        "description": "\u4f9d\u60a8\u76ee\u524d\u7684\u6295\u4fdd\u610f\u5411\uff0c\u50be\u5411\u65bc\u4e0b\u5217\u54ea\u7a2e\u9078\u64c7\uff1f",
+        "answer1": "\u57fa\u672c\u4fdd\u969c(\u50be\u5411\u8f03\u57fa\u672c\u7684\u6295\u4fdd\u9078\u9805)",
+        "answer2": "\u5b8c\u6574\u4fdd\u969c(\u50be\u5411\u8f03\u5168\u9762\u7684\u6295\u4fdd\u9078\u9805\u6216\u5df2\u7d50\u5a5a\u751f\u5b50)",
+        "answer_sum": "2",
+        "question_number": "13",
+        "final_question": "1",
+        "question_type": "Suitability_analysis",
+        "question_group": "Suitability_analysis"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62932d7995d4bcadde3d"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u5e74\u9f61 \u70ba\u4f55\uff1f(\u4ee5\u4e0b\u5404\u984c\u8acb\u624b\u52d5\u8f38\u5165\u7cbe\u6e96\u6578\u503c)",
+        "field_name": "age",
+        "question_number": "1",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde3e"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u6027\u5225 \u70ba\u4f55\uff1f",
+        "field_name": "gender",
+        "question_number": "2",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde3f"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u5152\u5973\u6578\u91cf \u70ba\u4f55\uff1f",
+        "field_name": "kid",
+        "question_number": "3",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde40"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u6295\u8cc7\u5831\u916c\u7387 \u70ba\u4f55\uff1f(\u55ae\u4f4d %)",
+        "field_name": "ROI",
+        "question_number": "4",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde41"
+        },
+        "description": "\u8acb\u554f \u901a\u8ca8\u81a8\u8139\u7387 \u70ba\u4f55\uff1f(\u55ae\u4f4d %)",
+        "field_name": "CPI",
+        "question_number": "5",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde42"
+        },
+        "description": "\u8acb\u554f\u60a8 \u76ee\u524d\u53ef\u6295\u8cc7\u91d1\u984d \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "investable_amount",
+        "question_number": "6",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde43"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u85aa\u8cc7\u5e74\u6536\u5165 \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "salary",
+        "question_number": "7",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde44"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u5176\u4ed6\u5e74\u6536\u5165 \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "income",
+        "question_number": "8",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde45"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u4e00\u822c\u5bb6\u7528\u5e74\u652f\u51fa \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "cost",
+        "question_number": "9",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde46"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u8cb8\u6b3e\u5e74\u652f\u51fa \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "loan",
+        "question_number": "10",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde47"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u5176\u4ed6\u5e74\u8cbb\u7528 \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "expenditure",
+        "question_number": "11",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd62942d7995d4bcadde48"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u96fb\u5b50\u90f5\u4ef6\u5730\u5740 \u70ba\u4f55\uff1f",
+        "field_name": "email",
+        "question_number": "15",
+        "final_question": "1",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "61cd6bbe0c6b2a4143171349"
+        },
+        "description": "\u4f9d\u60a8\u76ee\u524d\u7684\u6295\u4fdd\u610f\u5411\uff0c\u50be\u5411\u65bc\u4e0b\u5217\u54ea\u7a2e\u9078\u64c7\uff1f",
+        "answerA": "\u57fa\u672c\u4fdd\u969c(\u50be\u5411\u8f03\u57fa\u672c\u7684\u6295\u4fdd\u9078\u9805)",
+        "answerB": "\u5b8c\u6574\u4fdd\u969c(\u50be\u5411\u8f03\u5168\u9762\u7684\u6295\u4fdd\u9078\u9805\u6216\u5df2\u7d50\u5a5a\u751f\u5b50)",
+        "answer_sum": "2",
+        "final_question": "1",
+        "question_group": "Car_insurance_planning",
+        "question_number": "12"
+    },
+    {
+        "_id": {
+            "$oid": "626f65f4cbe6811a37b14c44"
+        },
+        "description": "\u8acb\u554f\u60a8 \u591a\u4e45\u70ba\u4e00\u671f \u70ba\u4f55\uff1f(\u5e74 or \u6708)",
+        "field_name": "cycle",
+        "question_number": "16",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "626f662ccbe6811a37b14c45"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u9810\u671f\u6295\u8cc7\u5e74\u6578 \u70ba\u4f55\uff1f(\u55ae\u4f4d \u5e74)",
+        "field_name": "staging",
+        "question_number": "12",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "626f6644cbe6811a37b14c46"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u5e74\u5229\u7387 \u70ba\u4f55\uff1f(\u55ae\u4f4d %)",
+        "field_name": "rate",
+        "question_number": "13",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "626f665dcbe6811a37b14c47"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u5e74\u6295\u8cc7\u91d1\u984d \u70ba\u4f55\uff1f(\u55ae\u4f4d \u842c)",
+        "field_name": "PMT",
+        "question_number": "14",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "626f6671cbe6811a37b14c48"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u73fe\u503c \u70ba\u4f55\uff1f(\u55ae\u4f4d \u5143)",
+        "field_name": "PV",
+        "question_number": "17",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    },
+    {
+        "_id": {
+            "$oid": "626f6684cbe6811a37b14c49"
+        },
+        "description": "\u8acb\u554f\u60a8\u7684 \u4ed8\u6b3e\u6642\u9593 \u70ba\u4f55\uff1f(\u671f\u672b or \u671f\u521d)",
+        "field_name": "type",
+        "question_number": "18",
+        "final_question": "0",
+        "question_type": "joint_financial_planning",
+        "question_group": "joint_financial_planning"
+    }
+]
