@@ -858,6 +858,7 @@ def handle_message(event):
                         myReply += "其他保險建議：" + \
                             life_stage["insurance_list"] + "\n"
                         myReply += "網址：" + life_stage["url"] + "\n"
+                        myReply += "網址1：" + "https://drive.google.com/file/d/1hbcqVgNvRPi1wc73wrvu0E7F_xQw5LkQ/view?usp=share_link" + "\n"
                         myReply += "保費：" + str(life_stage["cost"]) + "\n"
                         # 回傳文字轉換成模板格式
                         myReply = Result_template(myReply).content("汽車保險規劃結果", "https://i.imgur.com/Ppg4X01.png")
