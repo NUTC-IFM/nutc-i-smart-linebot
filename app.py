@@ -443,6 +443,7 @@ def handle_message(event):
                             myReply += "\n"
                     myReply += "其他保險建議：" + life_stage["insurance_list"] + "\n"
                     myReply += "網址：" + life_stage["url"] + "\n"
+                    myReply += "網址1：" + "https://drive.google.com/file/d/1hbcqVgNvRPi1wc73wrvu0E7F_xQw5LkQ/view?usp=share_link" + "\n"
                     myReply += "保費：" + str(life_stage["cost"]) + "\n"
                     myReply = Result_template(myReply).content(
                         "適合性分析結果", "https://i.imgur.com/xn6DBGB.png")
@@ -596,6 +597,7 @@ def handle_message(event):
                         myReply += "其他保險建議：" + \
                             life_stage["insurance_list"] + "\n"
                         myReply += "網址：" + life_stage["url"] + "\n"
+                        myReply += "網址1：" + "https://drive.google.com/file/d/1hbcqVgNvRPi1wc73wrvu0E7F_xQw5LkQ/view?usp=share_link" + "\n"
                         myReply += "保費：" + str(life_stage["cost"]) + "\n"
                         # 回傳文字轉換成模板格式
                         myReply = Result_template(myReply).content("適合性分析結果", "https://i.imgur.com/xn6DBGB.png")
