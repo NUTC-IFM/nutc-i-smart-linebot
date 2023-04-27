@@ -971,6 +971,7 @@ def handle_message(event):
                                         str(answer_record_life_stage_list[i].split(
                                             ":")[1])
                                     myReply += question[answer] + "\n"
+                        myReply += "網址1：" + "https://drive.google.com/file/d/1CrPHmlPEnz3PvHS-ZdOCG6Vj3UQP4c26/view?usp=share_link" + "\n"                
                         check_data = {"user_id": event.source.user_id}
                         check_options = dbUserRequest.find_one(check_data)
                         if check_options["gender"] == "1":
