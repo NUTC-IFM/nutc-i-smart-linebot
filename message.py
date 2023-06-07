@@ -1477,6 +1477,50 @@ class function_list():
                                 }
                             ]
                         }
+                    },
+                    {
+                        "type": "bubble",
+                        "direction": "ltr",
+                        "hero": {
+                            "type": "image",
+                            "url": "https://i.imgur.com/J7AAJnq.png",
+                            "size": "full",
+                            "aspectRatio": "20:13",
+                            "aspectMode": "cover"
+                        },
+                        "body": {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "主旨",
+                                    "weight": "bold",
+                                    "size": "xl",
+                                    "align": "center",
+                                    "gravity": "center",
+                                    "contents": []
+                                }
+                            ]
+                        },
+                        "footer": {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "button",
+                                    "action": {
+                                        "type": "message",
+                                        "label": "認識我們",
+                                        "text": "認識我們"
+                                    },
+                                    "color": "#DAAD85",
+                                    "style": "primary"
+                                },
+                            ]
+                        }
                     }
                 ]
             }
