@@ -864,7 +864,7 @@ def handle_message(event):
                         myReply += "其他保險建議：" + \
                             life_stage["insurance_list"] + "\n"
                        
-                       url_temp = ""
+                        url_temp = ""
                         #根據12分為Ａ：基本保障與Ｂ：完整保障
                         if(answer_record_list[12][-1] == 'A'):
                             #若選為Ａ的話則在根據第三題與第四題做判斷
