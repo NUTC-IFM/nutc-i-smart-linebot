@@ -341,7 +341,7 @@ class Result_template():
                     "style": "link",
                     "action": {
                         "type": "uri",
-                        "label": "參考網址",
+                        "label": "保險建議",
                         "uri": str(reply_text.split("：")[1])
                     },
                     "height": "sm",
