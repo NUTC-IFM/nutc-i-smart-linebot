@@ -116,6 +116,11 @@ def handle_message(event):
                 event.reply_token,
                 TextSendMessage(text="使用說明\n\n點擊選單中的功能列表，會顯示六種不同類型的問卷，可以依照您的需求，並得到適合您的投資方式。\n\n適合性分析：根據自身的投資習慣，分析出適合您的投資類型，並得到相關的保險建議。\n\n汽車保險規劃：根據題目選擇與自身相符的選項，機器人會自動計算結果並推薦給您最適合的汽車保險。\n\n人生保險規劃：依照您的實際情況，機器人會計算不同結果的權重，給予現階段推薦的保險種類及建議。\n\n人生保險規劃 退休規劃：機器人依照您的年齡和性別，給予現階段推薦的保險種類及建議。\n\n保障缺口分析：根據題目選擇與自身相符的選項，機器人會自動計算保障缺口並推薦適合的保險給您。\n\n退休財務規劃：根據題目回覆自己的資訊，機器人會自動計算並寄送試算結果，使您能夠提前規劃退休生活。")
             )
+        elif re.compile("[認]+[識]+[我]+[們]+").search(event.message.text) is not None:
+            line_bot_api.reply_message(
+                event.reply_token,
+                TextSendMessage(text="i-smart白金智財機器人\n係由保險金融系王財驛副教授擔任邏輯設計與專業知識指導，並由資訊工程學系學生協助開發。\n設計理念如下:\n目前保險理財IT平台，需透過使用者先選擇投保公司，再從該公司方案中選擇偏好方案。但使用者通常會比較多家保險公司的方案，故使用者普遍存在「需在不同保險公司APP、網頁、LINEBOT中進行反覆尋找與比較」的 『痛點』。\n此系統的開發，在打破現有保險理財規劃的盲區，具備專業與邏輯引導的功能，使用者只要簡單輸入個人需求資訊，即可快速獲取市場多家保險公司的現有方案，並自動提供符合使用者需求的適配方案。\n系統團隊相信前述系統的設計理念，將成為未來保險業發展AI 智能保險機器人的核心雛型概念。\n技術補充:\n此系統經由line提供之開發環境為基礎。利用Heroku託管伺服器，串連至GitHub 提取程式碼，最後提取Mongodb之資料顯示於line上。")
+            )
         # 使用者適合性分析
         elif re.compile("適合性分析").search(event.message.text) is not None and re.compile("適合性分析結果").search(event.message.text) is None:
             dbUserRequest.update_one({"user_id": event.source.user_id}, {"$set": {"status": "Suitability_analysis", "question_number": "1",
