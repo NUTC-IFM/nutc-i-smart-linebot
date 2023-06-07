@@ -191,19 +191,7 @@ def handle_message(event):
                         # 結尾分行
                         myReply += "\n"
                 myReply += "其他保險建議：" + life_stage["insurance_list"] + "\n"
-                #myReply += "網址：" + life_stage["url"] + "\n"
-                #myReply += "網址1：" + "https://drive.google.com/file/d/1hbcqVgNvRPi1wc73wrvu0E7F_xQw5LkQ/view?usp=share_link" + "\n"
-                #myReply += "保費：" + str(life_stage["cost"]) + "\n"
-                
-               
-                        
-                myReply = Result_template(myReply).content(
-                    "汽車保險規劃結果", "https://i.imgur.com/Ppg4X01.png")
-                line_bot_api.reply_message(
-                    event.reply_token,
-                    myReply
-                )
-                 url_temp = ""
+                url_temp = ""
                         #根據12分為Ａ：基本保障與Ｂ：完整保障
                         if(answer_record_list[12][-1] == 'A'):
                             #若選為Ａ的話則在根據第三題與第四題做判斷
@@ -229,6 +217,16 @@ def handle_message(event):
                                     url_temp = "https://drive.google.com/file/d/16c9m8_4ciqpGYNA-pthMoFpIs9o0fyO2/view?usp=sharing" 
 
                         myReply += "網址：" + url_temp + "\n"
+                #myReply += "網址：" + life_stage["url"] + "\n"
+                #myReply += "網址1：" + "https://drive.google.com/file/d/1hbcqVgNvRPi1wc73wrvu0E7F_xQw5LkQ/view?usp=share_link" + "\n"
+                #myReply += "保費：" + str(life_stage["cost"]) + "\n"
+                myReply = Result_template(myReply).content(
+                    "汽車保險規劃結果", "https://i.imgur.com/Ppg4X01.png")
+                line_bot_api.reply_message(
+                    event.reply_token,
+                    myReply
+                )
+                 
                 return
             else:
                 myReply = "尚未進行汽車保險規劃"
