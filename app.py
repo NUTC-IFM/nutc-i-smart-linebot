@@ -192,31 +192,31 @@ def handle_message(event):
                         myReply += "\n"
                 myReply += "其他保險建議：" + life_stage["insurance_list"] + "\n"
                 url_temp = ""
-                        #根據12分為Ａ：基本保障與Ｂ：完整保障
-                        if(answer_record_list[12][-1] == 'A'):
-                            #若選為Ａ的話則在根據第三題與第四題做判斷
-                            #若第三題與第四題其中的答案有第一個答案與第二個答案的話則給出方案Ａ的連結，不是的話則給出方案Ｂ的連結
-                            if(answer_record_list[3][-1] == 'A' or answer_record_list[3][-1] == 'B' or answer_record_list[4][-1] == 'A' or answer_record_list[4][-1] == 'B'):
-                                url_temp = "https://drive.google.com/file/d/1rz3716YuLYp1YB0KUfgNwybZxyjBgj-E/view?usp=sharing"
+                #根據12分為Ａ：基本保障與Ｂ：完整保障
+                if(answer_record_list[12][-1] == 'A'):
+                    #若選為Ａ的話則在根據第三題與第四題做判斷
+                    #若第三題與第四題其中的答案有第一個答案與第二個答案的話則給出方案Ａ的連結，不是的話則給出方案Ｂ的連結
+                    if(answer_record_list[3][-1] == 'A' or answer_record_list[3][-1] == 'B' or answer_record_list[4][-1] == 'A' or answer_record_list[4][-1] == 'B'):
+                        url_temp = "https://drive.google.com/file/d/1rz3716YuLYp1YB0KUfgNwybZxyjBgj-E/view?usp=sharing"
+                    else:
+                        url_temp = "https://drive.google.com/file/d/1no7GaEEkwIcDEULzGwJ6XDYvVRKj47cb/view?usp=sharing"
+                else:
+                    #若選為Ｂ的話則先根據第十題的答案做判斷
+                    #若第十題的結果為 D or E 的話則給出方案Ｆ的連結
+                    if(answer_record_list[10][-1] == 'D' or answer_record_list[10][-1] == 'E'):
+                        url_temp = "https://drive.google.com/file/d/1zpxNqsM6GGYcACf-fJanTqc1Tf4fEHbu/view?usp=drive_link"
+                    else:
+                        if((answer_record_list[9][-1] == 'A' or answer_record_list[9][-1] == 'B') and 
+                          (answer_record_list[10][-1] == 'A' or answer_record_list[10][-1] == 'B') and 
+                          (answer_record_list[11][-1] == 'A' or answer_record_list[11][-1] == 'B')):
+                            if(answer_record_list[8][-1] == 'A'):
+                                url_temp = "https://drive.google.com/file/d/1iA10Vs3MfKkzSOxwSUq3eeO9mD1UrFYQ/view?usp=drive_link"
                             else:
-                                url_temp = "https://drive.google.com/file/d/1no7GaEEkwIcDEULzGwJ6XDYvVRKj47cb/view?usp=sharing"
+                                url_temp = "https://drive.google.com/file/d/1iFMk4_PkmE97IhzRbjjSnaacpNeMyUCP/view?usp=sharing"
                         else:
-                            #若選為Ｂ的話則先根據第十題的答案做判斷
-                            #若第十題的結果為 D or E 的話則給出方案Ｆ的連結
-                            if(answer_record_list[10][-1] == 'D' or answer_record_list[10][-1] == 'E'):
-                                url_temp = "https://drive.google.com/file/d/1zpxNqsM6GGYcACf-fJanTqc1Tf4fEHbu/view?usp=drive_link"
-                            else:
-                                if((answer_record_list[9][-1] == 'A' or answer_record_list[9][-1] == 'B') and 
-                                  (answer_record_list[10][-1] == 'A' or answer_record_list[10][-1] == 'B') and 
-                                  (answer_record_list[11][-1] == 'A' or answer_record_list[11][-1] == 'B')):
-                                    if(answer_record_list[8][-1] == 'A'):
-                                        url_temp = "https://drive.google.com/file/d/1iA10Vs3MfKkzSOxwSUq3eeO9mD1UrFYQ/view?usp=drive_link"
-                                    else:
-                                        url_temp = "https://drive.google.com/file/d/1iFMk4_PkmE97IhzRbjjSnaacpNeMyUCP/view?usp=sharing"
-                                else:
-                                    url_temp = "https://drive.google.com/file/d/16c9m8_4ciqpGYNA-pthMoFpIs9o0fyO2/view?usp=sharing" 
+                            url_temp = "https://drive.google.com/file/d/16c9m8_4ciqpGYNA-pthMoFpIs9o0fyO2/view?usp=sharing" 
 
-                        myReply += "網址：" + url_temp + "\n"
+                myReply += "網址：" + url_temp + "\n"
                 #myReply += "網址：" + life_stage["url"] + "\n"
                 #myReply += "網址1：" + "https://drive.google.com/file/d/1hbcqVgNvRPi1wc73wrvu0E7F_xQw5LkQ/view?usp=share_link" + "\n"
                 #myReply += "保費：" + str(life_stage["cost"]) + "\n"
